@@ -1,0 +1,13 @@
+package com.example.quadratic;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class QuadraticApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
